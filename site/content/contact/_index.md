@@ -1,6 +1,7 @@
 ---
 title: Kontakt
 logo: img/contact.jpeg
+image: img/contact.jpeg
 contact_entries:
   - heading: Anschrift
     text: Musterstrasse 1, 1234 Musterstadt CH
