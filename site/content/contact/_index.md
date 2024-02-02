@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-logo: img/birne.jpeg
+logo: img/contact.jpeg
 contact_entries:
   - heading: Anschrift
     text: Musterstrasse 1, 1234 Musterstadt CH
