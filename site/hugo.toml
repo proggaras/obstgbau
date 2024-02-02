@@ -1,6 +1,6 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
+languageCode = "de-ch"
+languageLang = "de"
 title = "Obst- und Gartenbauverein Musterdorf"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
