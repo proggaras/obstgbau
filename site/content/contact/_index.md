@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Kontakt
 logo: img/birne.jpeg
 contact_entries:
   - heading: Anschrift
